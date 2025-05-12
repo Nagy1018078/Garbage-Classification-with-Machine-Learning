@@ -1,0 +1,13 @@
+{
+  "save_date": "20250512_133019",
+  "models": {
+    "cnn": "best_cnn_model.pth",
+    "ann": "best_ann_model.pth",
+    "googlenet": "best_googlenet_model.pth"
+  },
+  "performance": {
+    "cnn_accuracy": 0.673469387755102,
+    "ann_accuracy": 0.41581632653061223,
+    "googlenet_accuracy": 0.8596938775510204
+  }
+}
