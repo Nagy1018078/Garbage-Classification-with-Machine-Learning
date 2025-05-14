@@ -1,0 +1,15 @@
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+dash
+dash_bootstrap_components
+tqdm
+mlflow
+joblib
+optuna
+scikit-learn
+torch
+torchvision
